@@ -5,7 +5,7 @@
 #### 效果图
 
 ![效果图](https://github.com/laoSanDr/JHTransitionAnimate/blob/master/动画效果.gif)
-
+---
 ### 使用方法
 
 >下载Demo，把`JHTransition`文件拖到工程里面
