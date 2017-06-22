@@ -9,6 +9,7 @@
 ### 使用方法
 
 >下载Demo，把`JHTransition`文件拖到工程里面
+
 导入 `#import "JHTransition.h"`
 
 ```
