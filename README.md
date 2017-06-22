@@ -15,7 +15,7 @@
 self.navigationController.delegate = [JHTransition shareManager];
 [JHTransition shareManager].animationType = JHAnimateTypeDiffNavi;
 ```
-######只需要把navigationController的代理设置为WTKTransition的单例对象即可，animationType为动画类型，如下:
+###### 只需要把navigationController的代理设置为WTKTransition的单例对象即可，animationType为动画类型，如下:
 ```
 typedef NS_ENUM(NSInteger,JHAnimateType)
 {
