@@ -32,3 +32,5 @@ typedef NS_ENUM(NSInteger,JHAnimateType)
     JHAnimateTypeDouYu,
 };
 ```
+
+[简书地址](http://www.jianshu.com/p/dcce9d514a24)
