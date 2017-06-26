@@ -34,4 +34,4 @@ typedef NS_ENUM(NSInteger,JHAnimateType)
 };
 ```
 
-[简书地址](http://www.jianshu.com/p/dcce9d514a24)
+点击[简书地址](http://www.jianshu.com/p/dcce9d514a24)
